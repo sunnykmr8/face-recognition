@@ -1,7 +1,7 @@
 streamlit
 pillow
-mtcnn
 opencv-python-headless
+mtcnn
 keras-facenet
 matplotlib
 numpy
